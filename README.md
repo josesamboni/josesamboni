@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josesamboni
+- 👋 Hi, I’m @Jose Samboni
 
 
 <!---
